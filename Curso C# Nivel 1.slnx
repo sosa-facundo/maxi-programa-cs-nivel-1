@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/ejercicios-unidad-02/">
+    <Project Path="ejercicios-unidad-02/calculadora/calculadora.csproj" />
+    <Project Path="ejercicios-unidad-02/ej-02/ej-02.csproj" />
+    <Project Path="ejercicios-unidad-02/ej-03/ej-03.csproj" />
+    <Project Path="ejercicios-unidad-02/ej-04/ej-04.csproj" />
+    <Project Path="ejercicios-unidad-02/ej-05/ej-05.csproj" />
+  </Folder>
+  <Folder Name="/ejercicios-unidad-03/">
+    <Project Path="ejercicios-unidad-03/ej-01/ej-01.csproj" />
+    <Project Path="ejercicios-unidad-03/ej-02/ej-02.csproj" />
+  </Folder>
+</Solution>
