@@ -8,5 +8,10 @@ class Program
         char letra2;
         char[] letras = new char[10];
         Console.WriteLine("escribe un texto de 10 caracteres");
+        for (int i=0; i<10; i++)
+        {
+            letra = Convert.ToChar(Console.ReadLine());
+            letras[i] = letra;
+        }
     }
 }
