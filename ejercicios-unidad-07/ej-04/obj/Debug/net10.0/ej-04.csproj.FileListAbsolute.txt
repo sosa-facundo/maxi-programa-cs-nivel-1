@@ -1,0 +1,15 @@
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\bin\Debug\net10.0\ej-04.exe
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\bin\Debug\net10.0\ej-04.deps.json
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\bin\Debug\net10.0\ej-04.runtimeconfig.json
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\bin\Debug\net10.0\ej-04.dll
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\bin\Debug\net10.0\ej-04.pdb
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\obj\Debug\net10.0\ej-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\obj\Debug\net10.0\ej-04.AssemblyInfoInputs.cache
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\obj\Debug\net10.0\ej-04.AssemblyInfo.cs
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\obj\Debug\net10.0\ej-04.csproj.CoreCompileInputs.cache
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\obj\Debug\net10.0\ej-04.sourcelink.json
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\obj\Debug\net10.0\ej-04.dll
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\obj\Debug\net10.0\refint\ej-04.dll
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\obj\Debug\net10.0\ej-04.pdb
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\obj\Debug\net10.0\ej-04.genruntimeconfig.cache
+C:\Repositorios\maxi-programa-cs-nivel-1\ejercicios-unidad-07\ej-04\obj\Debug\net10.0\ref\ej-04.dll
